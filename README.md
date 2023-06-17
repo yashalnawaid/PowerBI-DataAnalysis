@@ -2,7 +2,7 @@
 
 This repository highlights a wide range of analytical skills and expertise, focusing on the extraction of valuable insights from complex datasets. Through interactive and visually appealing dashboards, these projects effectively communicate actionable information for informed decision-making.
 ---
-# 1- Sales Overview Dashboard
+## 1- Sales Overview Dashboard
 
 The Sales Overview Dashboard provides a comprehensive view of sales performance, enabling users to gain insights into trends, product type sales, and total sales. The dashboard features three key components:
 
@@ -14,7 +14,7 @@ The Sales Overview Dashboard provides a comprehensive view of sales performance,
 
 ![image](https://github.com/yashalnawaid/DataAnalystPortfolio/assets/103623117/27237cf6-749b-4bba-9b82-a68b01f4c701)
 
-# 2- Product Performance Dashboard 
+## 2- Product Performance Dashboard 
 
 The Product Performance Dashboard, offers a comprehensive overview of product sales, highlighting key insights through a combination of visualizations and a table. The dashboard comprises the following components:
 
@@ -26,7 +26,7 @@ The Product Performance Dashboard, offers a comprehensive overview of product sa
 
 ![image](https://github.com/yashalnawaid/DataAnalystPortfolio/assets/103623117/c1bceb56-e408-49c3-8dc9-c8fc2ba8c810)
 
-# 3- Sales By Geographical Location
+## 3- Sales By Geographical Location
 
 The Geographical Sales Dashboard offers a comprehensive view of sales data based on geographic locations. This interactive dashboard utilizes a map, a donut chart, and a treemap to showcase sales information across different territories and states:
 
