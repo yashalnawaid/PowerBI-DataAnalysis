@@ -2,7 +2,8 @@
 ---
 This repository highlights a wide range of analytical skills and expertise, focusing on the extraction of valuable insights from complex datasets. Through interactive and visually appealing dashboards, these projects effectively communicate actionable information for informed decision-making.
 ---
-#Sales Overview Dashboard
+# Sales Overview Dashboard
+---
 The Sales Overview Dashboard provides a comprehensive view of sales performance, enabling users to gain insights into trends, product type sales, and total sales. The dashboard features three key components:
 
 1- Line Chart: This dynamic chart showcases trends in total sales over time, specifically by year and month. It allows users to observe fluctuations and identify patterns or seasonality in sales data. With interactive capabilities, users can zoom in or select specific time periods for detailed analysis.
