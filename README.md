@@ -37,3 +37,9 @@ The Geographical Sales Dashboard offers a comprehensive view of sales data based
 3- Treemap: The treemap visualization presents sales data organized by state. The size and color of each rectangle within the treemap indicate the sales volume, with larger rectangles representing higher sales. Users can easily identify states with significant sales figures and identify sales patterns across different regions. 
 
 ![image](https://github.com/yashalnawaid/DataAnalystPortfolio/assets/103623117/faae3a9b-af3f-441d-8cb7-16c718e2d811)
+
+
+
+## 2- Ecommerce Data Analysis
+![Untitled_page-0001](https://github.com/yashalnawaid/DataAnalystPortfolio/assets/103623117/846fd3ca-4b6a-4220-bb55-d922d0f194b0)
+
