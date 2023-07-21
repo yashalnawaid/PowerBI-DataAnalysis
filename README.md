@@ -43,3 +43,7 @@ The Geographical Sales Dashboard offers a comprehensive view of sales data based
 ## 2- Ecommerce Data Analysis
 ![Untitled_page-0001](https://github.com/yashalnawaid/DataAnalystPortfolio/assets/103623117/846fd3ca-4b6a-4220-bb55-d922d0f194b0)
 
+## 2- Employee/HR data analysis
+![employee_analysis_page-0001](https://github.com/yashalnawaid/DataAnalystPortfolio/assets/103623117/1fbd0b3c-2f69-4358-8659-3b3fc1167608)
+
+
